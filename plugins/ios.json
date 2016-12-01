@@ -7,10 +7,17 @@
         "files": {}
     },
     "installed_plugins": {
-        "cordova-custom-config": {
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "com.designbest.lagora"
+        },
+        "phonegap-plugin-push": {
+            "SENDER_ID": "xxxxx",
             "PACKAGE_NAME": "com.designbest.lagora"
         },
         "cordova-plugin-device": {
+            "PACKAGE_NAME": "com.designbest.lagora"
+        },
+        "cordova-custom-config": {
             "PACKAGE_NAME": "com.designbest.lagora"
         },
         "cordova-plugin-dialogs": {
@@ -23,13 +30,6 @@
             "PACKAGE_NAME": "com.designbest.lagora"
         },
         "cordova-plugin-statusbar": {
-            "PACKAGE_NAME": "com.designbest.lagora"
-        },
-        "cordova-plugin-whitelist": {
-            "PACKAGE_NAME": "com.designbest.lagora"
-        },
-        "phonegap-plugin-push": {
-            "SENDER_ID": "xxxxx",
             "PACKAGE_NAME": "com.designbest.lagora"
         }
     },
